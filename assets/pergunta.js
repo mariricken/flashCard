@@ -15,3 +15,4 @@ criaCartao(
     pergunta,
     resposta
 )
+container.appendChild(cartao)
