@@ -15,7 +15,7 @@ criaCartao(
     pergunta,
     resposta
 )
-container.appendChild(cartao)
+
 
 criaCartao(
     'Lingua inglesa',
